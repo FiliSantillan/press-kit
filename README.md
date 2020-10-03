@@ -1,12 +1,16 @@
 # Fili Santillán
 
-Me encanta compartir y transmitir conocimiento. A lo largo de mi vida como desarrollador he dado diferentes charlas sobre distintos temas o tecnologías.
+Me encanta compartir y transmitir conocimiento. A lo largo de mi vida como
+desarrollador he dado diferentes charlas sobre distintos temas o tecnologías.
 
 También me puedes mandar un correo a fili@filisantillan.com
 
 ## Biografía
 
-¡Hola! mi nombre es Filiberto, aunque todos me suelen decir Fili. Desarrollador Frontend desde el 2015. Me encanta aprender y compartir conocimiento. Trabajo con HTML, CSS y JavaScript día a día. También suelo trabajar con React, GraphQL, Shopify, PostCSS y webpack.
+¡Hola! mi nombre es Filiberto, aunque todos me suelen decir Fili. Desarrollador
+Frontend desde el 2015. Me encanta aprender y compartir conocimiento. Trabajo con
+HTML, CSS y JavaScript día a día. También suelo trabajar con React, GraphQL, Shopify,
+PostCSS y webpack.
 
 ### Nombre completo
 
@@ -28,4 +32,5 @@ Sitio web: http://filisantillan.com
 [Diapositiva para mac (key)](./slides/fili-santillan.key)  
 [Diapositiva para pc (pptx)](./slides/fili-santillan.pptx)  
 [Diapositiva en pdf](./slides/fili-santillan.pdf)  
-[imagen de perfil](./images/fili-santillan.jpg)
+[Fuente para diapositivas](./slides/Montserrat.zip)  
+[Imagen de perfil](./images/fili-santillan.jpg)
